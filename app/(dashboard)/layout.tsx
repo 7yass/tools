@@ -4,8 +4,6 @@ const projects = [
   "brazy-bio-platform",
   "discord-bot",
   "selfbot-concept",
-  "cp-dashboard",
-  "tools-hub",
   "coralmc-proxy",
   "username-finder",
   "pc-optimizer",
