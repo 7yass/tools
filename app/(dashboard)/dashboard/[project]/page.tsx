@@ -1,12 +1,10 @@
 const labels: Record<string, string> = {
   "brazy-bio-platform": "Brazy bio platform",
-  "discord-bot": "Discord bot",
-  "selfbot-concept": "Selfbot concept",
-  "cp-dashboard": "cp.brazy.xyz",
-  "tools-hub": "tools.brazy.xyz",
-  "coralmc-proxy": "CoralMC proxy",
-  "username-finder": "Username finder",
-  "pc-optimizer": "PC optimizer",
+  "discord-bot": "Very Advanced Discord bot",
+  "selfbot-concept": "A discord Selfbot concept",
+  "coralmc-proxy": "A CoralMC proxy",
+  "username-finder": "A Discord Username finder and sniper",
+  "pc-optimizer": "A FreeForAll PC optimizer",
 }
 
 export default async function Page({ params }: { params: Promise<{ project: string }> }) {
